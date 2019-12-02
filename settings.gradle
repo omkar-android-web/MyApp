@@ -1,0 +1,1 @@
+include ':app', ':codelab', ':scrolling_text', ':two_activities', ':implicitintent', ':implicitintentreceiver', ':simplecalc', ':supportlib', ':timeupdation', ':ble_test', ':tv_demo', ':picker_date_time', ':ble_2017', ':user_navigation', ':samplechatapp', ':navi_drawer', ':weatherapp'
